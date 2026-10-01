@@ -6,33 +6,7 @@ Customers can explain a home-service problem using **photos and their original v
 
 ---
 
-## 📸 Application Screenshots
 
-### Customer Dashboard
-
-![Customer Dashboard](screenshots/customer-dashboard.png)
-
-The customer dashboard provides quick access to active bookings, pending requests, completed services, saved professionals, service search, and service tracking.
-
-### Photo + Voice Service Request
-
-![Service Request](screenshots/service-request-photo-voice.png)
-
-Customers can upload problem photos and record the problem in their preferred language. The original voice recording can be listened to directly by the professional.
-
-### Provider Dashboard
-
-![Provider Dashboard](screenshots/provider-dashboard.png)
-
-Professionals can manage incoming requests, today's jobs, active jobs, completed jobs, earnings, ratings, and their availability.
-
-### Location-Based Service Context
-
-![Location Matching](screenshots/location-matching.png)
-
-Location information is used as one of the factors for finding suitable professionals near the customer's service area.
-
----
 
 # 🎯 Problem Statement
 
